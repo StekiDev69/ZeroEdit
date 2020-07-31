@@ -13,8 +13,8 @@ notification:
 en:
   reload: "&cZeroBot: &aFiles successfully reloaded!"
   help: |-
-    &c&m--------------------------------------------
-    &c           AntiBot&7 %version% &cby&7 Bekston
+    &c&m----------------------------------------------
+    &c                   AntiBot&7 %version% &cby&7 Bekston
     &c /ab notify &8> &7Activates AntiBot notifications!
     &c /ab stats &8> &7Shows the stats of the plugin!
     &c /ab reload &8> &7Reloads the plugin configuration!
@@ -22,7 +22,7 @@ en:
     &c /ab blacklist <save/load> &8> &7Saves or loads the blacklist file!
     &c /ab whitelist <add/remove> <IP> &8> &7Adds or removes a IP from the whitelist!
     &c /ab whitelist <save/load> &8> &7Saves or loads the whitelist file!
-    &c&m--------------------------------------------
+    &c&m----------------------------------------------
   error:
     command: "&cInvalid argument! Use /ab help to see available commands!"
     console: "&cYou can't run this command from the console!"
